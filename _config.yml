@@ -10,11 +10,12 @@ locale                   : "en-US"
 title                    : "Dr. Kirils Makarovs"
 title_separator          : "-"
 name                     : &name "Dr. Kirils Makarovs"
-description              : &description "Dr. Kirils Makarovs"
+description              : &description "Quantitative sociologist and computational social scientist"
 url                      : https://kirils-makarovs.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kirils-makarovs/kirils-makarovs.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+seo_description          : Site for Dr. Kirils Makarovs, Associate Lecturer in Social Data Analysis at the University of Exeter"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true

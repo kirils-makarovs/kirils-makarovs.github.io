@@ -82,13 +82,13 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Kirils Makarovs"
-  avatar           : "PXL_20210708_175231993.MP~2.jpg"
+  avatar           : "pic1.jpg"
   bio              : "Associate Lecturer in Social Data Analysis at the University of Exeter"
   location         : "Exeter, UK"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=_ziVV1YAAAAJ&view_op=list_works&gmla=AJsN-F6SNJTdtXwMPnYA6hYYbhEpnAcG2nj1PaMOouMO6EEAg9EjVmZg45L5m0it9Ngrv1tbuxWEq1U3YfcwakIfpMMAPfbcZA"
-  email            :
+  email            : "k.makarovs@exeter.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
